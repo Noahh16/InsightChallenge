@@ -1,0 +1,37 @@
+C:\Users\noahh\source\repos\InsightChallenge\bin\Debug\InsightChallenge.exe.config
+C:\Users\noahh\source\repos\InsightChallenge\bin\Debug\InsightChallenge.exe
+C:\Users\noahh\source\repos\InsightChallenge\bin\Debug\InsightChallenge.pdb
+C:\Users\noahh\source\repos\InsightChallenge\obj\Debug\InsightChallenge.csprojAssemblyReference.cache
+C:\Users\noahh\source\repos\InsightChallenge\obj\Debug\InsightChallenge.Form1.resources
+C:\Users\noahh\source\repos\InsightChallenge\obj\Debug\InsightChallenge.Properties.Resources.resources
+C:\Users\noahh\source\repos\InsightChallenge\obj\Debug\InsightChallenge.csproj.GenerateResource.cache
+C:\Users\noahh\source\repos\InsightChallenge\obj\Debug\InsightChallenge.exe
+C:\Users\noahh\source\repos\InsightChallenge\obj\Debug\InsightChallenge.pdb
+E:\Semester 4\Coop\Insight\InsightChallenge\bin\Debug\InsightChallenge.exe.config
+E:\Semester 4\Coop\Insight\InsightChallenge\bin\Debug\InsightChallenge.exe
+E:\Semester 4\Coop\Insight\InsightChallenge\bin\Debug\InsightChallenge.pdb
+E:\Semester 4\Coop\Insight\InsightChallenge\obj\Debug\InsightChallenge.csprojAssemblyReference.cache
+E:\Semester 4\Coop\Insight\InsightChallenge\obj\Debug\InsightChallenge.Form1.resources
+E:\Semester 4\Coop\Insight\InsightChallenge\obj\Debug\InsightChallenge.Properties.Resources.resources
+E:\Semester 4\Coop\Insight\InsightChallenge\obj\Debug\InsightChallenge.csproj.GenerateResource.cache
+E:\Semester 4\Coop\Insight\InsightChallenge\obj\Debug\InsightChallenge.csproj.CoreCompileInputs.cache
+E:\Semester 4\Coop\Insight\InsightChallenge\obj\Debug\InsightChallenge.exe
+E:\Semester 4\Coop\Insight\InsightChallenge\obj\Debug\InsightChallenge.pdb
+F:\Semester 4\Coop\Insight\InsightChallenge\bin\Debug\InsightChallenge.exe.config
+F:\Semester 4\Coop\Insight\InsightChallenge\bin\Debug\InsightChallenge.exe
+F:\Semester 4\Coop\Insight\InsightChallenge\bin\Debug\InsightChallenge.pdb
+F:\Semester 4\Coop\Insight\InsightChallenge\obj\Debug\InsightChallenge.csprojAssemblyReference.cache
+F:\Semester 4\Coop\Insight\InsightChallenge\obj\Debug\InsightChallenge.Form1.resources
+F:\Semester 4\Coop\Insight\InsightChallenge\obj\Debug\InsightChallenge.Properties.Resources.resources
+F:\Semester 4\Coop\Insight\InsightChallenge\obj\Debug\InsightChallenge.csproj.GenerateResource.cache
+F:\Semester 4\Coop\Insight\InsightChallenge\obj\Debug\InsightChallenge.exe
+F:\Semester 4\Coop\Insight\InsightChallenge\obj\Debug\InsightChallenge.pdb
+F:\Semester 4\Coop\Insight\InsightChallenge (Noah Haig)\InsightChallenge\bin\Debug\InsightChallenge.exe.config
+F:\Semester 4\Coop\Insight\InsightChallenge (Noah Haig)\InsightChallenge\bin\Debug\InsightChallenge.exe
+F:\Semester 4\Coop\Insight\InsightChallenge (Noah Haig)\InsightChallenge\bin\Debug\InsightChallenge.pdb
+F:\Semester 4\Coop\Insight\InsightChallenge (Noah Haig)\InsightChallenge\obj\Debug\InsightChallenge.csprojAssemblyReference.cache
+F:\Semester 4\Coop\Insight\InsightChallenge (Noah Haig)\InsightChallenge\obj\Debug\InsightChallenge.Form1.resources
+F:\Semester 4\Coop\Insight\InsightChallenge (Noah Haig)\InsightChallenge\obj\Debug\InsightChallenge.Properties.Resources.resources
+F:\Semester 4\Coop\Insight\InsightChallenge (Noah Haig)\InsightChallenge\obj\Debug\InsightChallenge.csproj.GenerateResource.cache
+F:\Semester 4\Coop\Insight\InsightChallenge (Noah Haig)\InsightChallenge\obj\Debug\InsightChallenge.exe
+F:\Semester 4\Coop\Insight\InsightChallenge (Noah Haig)\InsightChallenge\obj\Debug\InsightChallenge.pdb
